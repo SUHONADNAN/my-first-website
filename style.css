@@ -1,0 +1,53 @@
+body{
+    margin:0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color:lightblue
+}
+.name-highlite{
+    color: orangered;
+}
+.first-part{
+    width: 40%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%;
+}
+.first-part img{
+    width: 55%;
+    height:35%;
+}
+section{
+    height: 500px;
+}
+.top-banner{
+    background-image: url(background.jpg);
+    background-repeat: initial;
+}
+.link-button{
+    text-decoration: none;
+    background-color:orange ;
+    padding:15px 18px;
+    border-radius: 7px;
+    color: aquamarine;
+    font-weight: 800;
+}
+.new-expreances{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height:300px
+}
+.expreances-area{
+    background-image:url(background.jpg);
+    color: brown;
+}
+footer p{
+    text-align: center;
+}
